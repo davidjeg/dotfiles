@@ -11,11 +11,13 @@ ts.setup {
     disable = {},
   },
   ensure_installed = {
-	"typescript",
-	"css",
-	"html",
-	"lua"
-
+    "markdown",
+    "markdown_inline",
+    "tsx",
+    "typescript",
+    "css",
+    "html",
+    "lua"
   },
   autotag = {
     enable = true,
